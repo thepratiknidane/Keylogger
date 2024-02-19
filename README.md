@@ -16,5 +16,9 @@ This Keylogger program record the every key stroke and save in log files.
 
 It's Record the keystrokes until you stop the execution of program
 
+<h3>To stop the Execution:</h3>
+
+    Ctrl+c
+
 Contributing
 Feel free to contribute to the project by opening issues or pull requests.
