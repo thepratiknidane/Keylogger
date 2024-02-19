@@ -20,5 +20,6 @@ It's Record the keystrokes until you stop the execution of program
 
     Ctrl+c
 
-Contributing
+<h3>Contributing:</h3>
+
 Feel free to contribute to the project by opening issues or pull requests.
