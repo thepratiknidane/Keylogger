@@ -5,7 +5,8 @@ This Keylogger program record the every key stroke and save in log files.
 <h3>Requirements:</h3>
 1. Python 3 (pynput)
 
-Installation:
+
+<h3>Installation:</h3>
 
     git clone https://github.com/thepratiknidane/Keylogger.git
 
